@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XDPodsDemo_Example' do
+  pod 'XDPodsDemo', :path => '../'
+
+  target 'XDPodsDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

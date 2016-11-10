@@ -1,0 +1,16 @@
+PODS:
+  - XDPodsDemo (0.1.0)
+
+DEPENDENCIES:
+  - XDPodsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  XDPodsDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XDPodsDemo: bd75aa55258180ae25cba8dec586aa7c0ea9549e
+
+PODFILE CHECKSUM: 3d8ef510d8c888751a02417b217f46b4c8623e2b
+
+COCOAPODS: 1.1.1
