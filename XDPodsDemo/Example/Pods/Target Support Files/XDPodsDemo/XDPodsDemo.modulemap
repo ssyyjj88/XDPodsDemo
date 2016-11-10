@@ -1,6 +1,0 @@
-framework module XDPodsDemo {
-  umbrella header "XDPodsDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}

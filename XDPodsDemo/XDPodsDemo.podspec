@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XDPodsDemo'
   s.version          = '0.1.0'
-  s.summary          = ' XDPodsDemo.'
+  s.summary          = 'XDPodsDemo.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'XDPodsDemo/Classes/**/*'
+  s.source_files = 'XDPodsDemo/XDPodsDemo/Classes/**/*'
   
   # s.resource_bundles = {
   #   'XDPodsDemo' => ['XDPodsDemo/Assets/*.png']

@@ -1,6 +1,0 @@
-framework module Pods_XDPodsDemo_Tests {
-  umbrella header "Pods-XDPodsDemo_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
